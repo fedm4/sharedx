@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "firebase": "^7.14.5",
     "quasar": "^1.9.5",
